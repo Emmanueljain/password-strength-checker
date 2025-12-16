@@ -24,7 +24,6 @@ This tool evaluates your password in real-time based on length, uppercase and lo
 
 ## Live Demo
 
-Access the live version [here](https://YOUR_USERNAME.github.io/password-strength-checker/)  
-*(Replace `YOUR_USERNAME` with your GitHub username)* 
+Access the live version [here](https://Emmanueljain.github.io/password-strength-checker/)   
 Feel free to contribute or suggest improvements.
 
