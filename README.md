@@ -25,5 +25,5 @@ This tool evaluates your password in real-time based on length, uppercase and lo
 ## Live Demo
 
 Access the live version [here](https://emmanueljain.github.io/password-strength-checker/)   
-Feel free to contribute or suggest improvements.
+
 
